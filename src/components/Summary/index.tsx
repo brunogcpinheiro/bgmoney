@@ -1,4 +1,3 @@
-import { useContext } from 'react'
 import Income from '../../assets/income.svg'
 import Outcome from '../../assets/outcome.svg'
 import Total from '../../assets/total.svg'
